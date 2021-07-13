@@ -1,0 +1,16 @@
+C:\Users\Bahri\Documents\Bahri's Stuff\Kelas XI\Semester 2\Tugas Random\LKS\CRUD_11\bin\Debug\CRUD_11.exe.config
+C:\Users\Bahri\Documents\Bahri's Stuff\Kelas XI\Semester 2\Tugas Random\LKS\CRUD_11\bin\Debug\CRUD_11.exe
+C:\Users\Bahri\Documents\Bahri's Stuff\Kelas XI\Semester 2\Tugas Random\LKS\CRUD_11\bin\Debug\CRUD_11.pdb
+C:\Users\Bahri\Documents\Bahri's Stuff\Kelas XI\Semester 2\Tugas Random\LKS\CRUD_11\obj\Debug\CRUD_11.csproj.AssemblyReference.cache
+C:\Users\Bahri\Documents\Bahri's Stuff\Kelas XI\Semester 2\Tugas Random\LKS\CRUD_11\obj\Debug\CRUD_11.Login.resources
+C:\Users\Bahri\Documents\Bahri's Stuff\Kelas XI\Semester 2\Tugas Random\LKS\CRUD_11\obj\Debug\CRUD_11.Properties.Resources.resources
+C:\Users\Bahri\Documents\Bahri's Stuff\Kelas XI\Semester 2\Tugas Random\LKS\CRUD_11\obj\Debug\CRUD_11.csproj.GenerateResource.cache
+C:\Users\Bahri\Documents\Bahri's Stuff\Kelas XI\Semester 2\Tugas Random\LKS\CRUD_11\obj\Debug\CRUD_11.csproj.CoreCompileInputs.cache
+C:\Users\Bahri\Documents\Bahri's Stuff\Kelas XI\Semester 2\Tugas Random\LKS\CRUD_11\obj\Debug\CRUD_11.exe
+C:\Users\Bahri\Documents\Bahri's Stuff\Kelas XI\Semester 2\Tugas Random\LKS\CRUD_11\obj\Debug\CRUD_11.pdb
+C:\Users\Bahri\Documents\Bahri's Stuff\Kelas XI\Semester 2\Tugas Random\LKS\CRUD_11\obj\Debug\CRUD_11.AdminNavigation.resources
+C:\Users\Bahri\Documents\Bahri's Stuff\Kelas XI\Semester 2\Tugas Random\LKS\CRUD_11\obj\Debug\CRUD_11.ManageMenu.resources
+C:\Users\Bahri\Documents\Bahri's Stuff\Kelas XI\Semester 2\Tugas Random\LKS\CRUD_11\obj\Debug\CRUD_11.ManageMember.resources
+C:\Users\Bahri\Documents\Bahri's Stuff\Kelas XI\Semester 2\Tugas Random\LKS\CRUD_11\obj\Debug\CRUD_11.Order.resources
+C:\Users\Bahri\Documents\Bahri's Stuff\Kelas XI\Semester 2\Tugas Random\LKS\CRUD_11\obj\Debug\CRUD_11.PaymentForm.resources
+C:\Users\Bahri\Documents\Bahri's Stuff\Kelas XI\Semester 2\Tugas Random\LKS\CRUD_11\obj\Debug\CRUD_11.CashierNavigation.resources
